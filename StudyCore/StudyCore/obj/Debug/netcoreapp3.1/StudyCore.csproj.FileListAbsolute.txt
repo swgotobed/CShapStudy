@@ -1,0 +1,11 @@
+D:\DONet\Vs2019\StudyCore\StudyCore\bin\Debug\netcoreapp3.1\StudyCore.exe
+D:\DONet\Vs2019\StudyCore\StudyCore\bin\Debug\netcoreapp3.1\StudyCore.deps.json
+D:\DONet\Vs2019\StudyCore\StudyCore\bin\Debug\netcoreapp3.1\StudyCore.runtimeconfig.json
+D:\DONet\Vs2019\StudyCore\StudyCore\bin\Debug\netcoreapp3.1\StudyCore.runtimeconfig.dev.json
+D:\DONet\Vs2019\StudyCore\StudyCore\bin\Debug\netcoreapp3.1\StudyCore.dll
+D:\DONet\Vs2019\StudyCore\StudyCore\bin\Debug\netcoreapp3.1\StudyCore.pdb
+D:\DONet\Vs2019\StudyCore\StudyCore\obj\Debug\netcoreapp3.1\StudyCore.AssemblyInfoInputs.cache
+D:\DONet\Vs2019\StudyCore\StudyCore\obj\Debug\netcoreapp3.1\StudyCore.AssemblyInfo.cs
+D:\DONet\Vs2019\StudyCore\StudyCore\obj\Debug\netcoreapp3.1\StudyCore.dll
+D:\DONet\Vs2019\StudyCore\StudyCore\obj\Debug\netcoreapp3.1\StudyCore.pdb
+D:\DONet\Vs2019\StudyCore\StudyCore\obj\Debug\netcoreapp3.1\StudyCore.csprojAssemblyReference.cache
