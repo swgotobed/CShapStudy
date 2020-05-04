@@ -3,3 +3,6 @@
 ################################################################################
 
 *.lock
+/StudyCore/.vs/StudyCore/v16/Server/sqlite3/storage.ide
+/StudyCore/.vs/StudyCore/v16/Server/sqlite3/storage.ide-shm
+/StudyCore/.vs/StudyCore/v16/Server/sqlite3/storage.ide-wal
