@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DONet\\Vs2019\\StudyCore\\StudyCore\\StudyCore.csproj",
+      "projectUniqueName": "E:\\github\\vs2019\\CShapStudy\\StudyCore\\StudyCore\\StudyCore.csproj",
       "projectName": "StudyCore",
-      "projectPath": "D:\\DONet\\Vs2019\\StudyCore\\StudyCore\\StudyCore.csproj",
+      "projectPath": "E:\\github\\vs2019\\CShapStudy\\StudyCore\\StudyCore\\StudyCore.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\DONet\\Vs2019\\StudyCore\\StudyCore\\obj\\",
+      "outputPath": "E:\\github\\vs2019\\CShapStudy\\StudyCore\\StudyCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
